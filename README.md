@@ -1,2 +1,2 @@
-*One Dark Theme based for Konsole*
+# One Dark Theme based for Konsole
 ~/.local/share/konsole/

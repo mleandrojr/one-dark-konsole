@@ -1,2 +1,2 @@
 # One Dark Theme based for Konsole
-~/.local/share/konsole/
+Just put the *One Dark Color.colorscheme* file into your *~/.local/share/konsole/* directory.
